@@ -7,7 +7,7 @@
  */
 
 
-$website = 'https://www.tredingtonmill.co.uk/pool-view.aspx'; //Enter the URL of the website you would like to appear next to the booking form
+$website = ''; //Enter the URL of the website you would like to appear next to the booking form
 
 $price_per_night = 30; //enter whole numbers for the price per night
 $price_per_adult = 1;  //leave at 1 if you don't want to charge per person
@@ -32,8 +32,8 @@ $reply_to = 'webmaster@example.com'; //Enter the email address of the web server
 $return_path = 'webmaster@example.com'; //Enter the email address of the web server that will send the email
 
 $servername = "localhost"; //Enter server name of database
-$username = "Cameron"; //Enter user name of database
-$password = "&yjv1G8wjiz^"; //Enter password of database
+$username = "username"; //Enter user name of database
+$password = "password"; //Enter password of database
 $instant_bookings = true; //set to 'false' if you wouldn't like instant bookings
 
 ///ENTER CSS COLOURS BELOW TO CHANGE THE COLORS OF THE FORM AND TEXT TO SUIT YOUR WEBSITE DISPLAYED NEXT TO THE FORM
